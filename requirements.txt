@@ -1,0 +1,12 @@
+pip install pandas==3.0.3 
+pip install numpy==2.4.4 
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn==1.8.0
+pip install imbalanced-learn==0.14.2
+pip install joblib==1.5.3
+pip install fastapi==0.136.1 
+pip install uvicorn==0.35.0
+pip install pytest
+pip install mlflow
+pip install azure-ai-ml
