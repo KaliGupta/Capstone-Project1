@@ -30,8 +30,4 @@ jobs:
 
       - name: Train AML Model
         run: |
-          python src/train.py
-
-      - name: Run Prediction Test
-        run: |
-          python src/prediction.py
+          python src/main.py
